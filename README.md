@@ -16,18 +16,27 @@ This command line interpreter serves as the frontend of the web app where users 
 Some of the commands available are:
 
 . show
+
 . create
+
 . update
+
 . destroy
+
 . count
 
 And as part of the implementation of the command line interpreter coupled with the backend and file storage system, the following actions can be performed:
 
 . Creating new objects (ex: a new User or a new Place)
+
 . Retrieving an object from a file, a database etc...
+
 . Doing operations on objects (count, compute stats, etc...)
+
 . Updating attributes of an object
+
 . Destroying an object
 
  How to start it
+
 With the help of these steps, you can get a copy of the project up and running on your local machine (Linux distribution) for development and testing purposes.
